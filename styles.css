@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-#selector {
+.selector {
 	color: #00f;
-	background: #eee;
+	background-color: #eee;
 	font-family: Arial;
 	font-size: 20px;
 }
